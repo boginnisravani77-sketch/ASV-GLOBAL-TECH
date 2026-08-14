@@ -1,0 +1,1833 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>ASV Global Tech | Technology Solutions</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+        rel="stylesheet">
+
+</head>
+
+<body>
+
+
+<!-- =====================================================
+     HEADER
+===================================================== -->
+
+<header class="header">
+
+    <div class="header-container">
+
+        <div class="header-left">
+
+            <button
+                class="back-button"
+                id="backButton"
+                type="button">
+                ←
+            </button>
+
+        </div>
+
+
+        <div class="header-right">
+
+            <a href="#contact" class="get-touch-button">
+                GET IN TOUCH
+            </a>
+
+            <button
+                class="menu-button"
+                id="menuButton"
+                type="button"
+                aria-expanded="false">
+
+                <span></span>
+                <span></span>
+                <span></span>
+
+            </button>
+
+        </div>
+
+    </div>
+
+
+    <!-- NAVIGATION -->
+
+    <nav class="navbar" id="navbar">
+
+        <div class="navbar-inner">
+
+            <a href="#home">
+                Home
+            </a>
+
+            <a href="#about">
+                About Us
+            </a>
+
+            <a href="#solutions">
+                Solutions
+            </a>
+
+            <a href="#services">
+                Services
+            </a>
+
+
+            <!-- INDUSTRIES DROPDOWN -->
+
+            <div class="nav-dropdown">
+
+                <button
+                    class="dropdown-link"
+                    type="button">
+
+                    Industries
+
+                    <span class="arrow">
+                        ▼
+                    </span>
+
+                </button>
+
+
+                <div class="dropdown-menu">
+
+                    <a href="#industries">
+                        Healthcare
+                    </a>
+
+                    <a href="#industries">
+                        Banking & Finance
+                    </a>
+
+                    <a href="#industries">
+                        Retail
+                    </a>
+
+                    <a href="#industries">
+                        Manufacturing
+                    </a>
+
+                    <a href="#industries">
+                        Education
+                    </a>
+
+                    <a href="#industries">
+                        Technology
+                    </a>
+
+                </div>
+
+            </div>
+
+
+            <a href="#careers">
+                Careers
+            </a>
+
+            <a href="#contact">
+                Contact
+            </a>
+
+        </div>
+
+    </nav>
+
+
+    <!-- CENTER BRAND -->
+
+    <div class="navbar-center-brand">
+
+        <img
+            src="./asv-logo-tight.png"
+            alt="ASV Global Tech Logo">
+
+        <div class="navbar-company-name">
+            ASV GLOBAL TECH
+        </div>
+
+    </div>
+
+</header>
+
+
+
+<!-- =====================================================
+     MAIN
+===================================================== -->
+
+<main id="home">
+
+
+<!-- =====================================================
+     HERO
+===================================================== -->
+
+<section class="hero">
+
+    <div class="hero-bg"></div>
+
+    <div class="hero-overlay"></div>
+
+
+    <div class="hero-container">
+
+        <div class="hero-text">
+
+            <h1>
+
+                Connecting Ideas
+
+                <span>
+                    Creating Impact
+                </span>
+
+            </h1>
+
+
+            <p class="hero-description">
+
+                We build innovative technology solutions that
+                connect ideas, technology and business.
+
+            </p>
+
+
+            <div class="hero-buttons">
+
+                <a
+                    href="#solutions"
+                    class="primary-button">
+
+                    EXPLORE SOLUTIONS
+
+                </a>
+
+
+                <a
+                    href="#contact"
+                    class="outline-button">
+
+                    GET IN TOUCH
+
+                </a>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- =====================================================
+     TECHNOLOGY BAR
+===================================================== -->
+
+<section class="technology-bar">
+
+    <div class="technology-container">
+
+        <div>
+
+            <strong>
+                Innovation
+            </strong>
+
+            <small>
+                Building better solutions
+            </small>
+
+        </div>
+
+
+        <div>
+
+            <strong>
+                Technology
+            </strong>
+
+            <small>
+                Modern digital solutions
+            </small>
+
+        </div>
+
+
+        <div>
+
+            <strong>
+                Expertise
+            </strong>
+
+            <small>
+                Experience that delivers
+            </small>
+
+        </div>
+
+
+        <div>
+
+            <strong>
+                Impact
+            </strong>
+
+            <small>
+                Solutions that matter
+            </small>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- =====================================================
+     ABOUT
+===================================================== -->
+
+<section class="section" id="about">
+
+    <div class="container">
+
+        <div class="about-grid">
+
+
+            <div class="about-image">
+
+                <img
+                    src="https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=1200&q=80"
+                    alt="ASV Global Tech Team">
+
+            </div>
+
+
+            <div class="about-text">
+
+                <p class="section-label">
+                    ABOUT ASV GLOBAL TECH
+                </p>
+
+
+                <h2>
+                    Turning Ideas Into
+                    Digital Possibilities
+                </h2>
+
+
+                <p>
+
+                    ASV Global Tech delivers technology-driven
+                    solutions designed to solve real business
+                    challenges.
+
+                </p>
+
+
+                <p>
+
+                    Our approach combines innovation, technical
+                    expertise and business understanding to create
+                    reliable and scalable digital solutions.
+
+                </p>
+
+
+                <div class="about-points">
+
+                    <div>
+
+                        <strong>
+                            01
+                        </strong>
+
+                        <span>
+                            Innovation First
+                        </span>
+
+                    </div>
+
+
+                    <div>
+
+                        <strong>
+                            02
+                        </strong>
+
+                        <span>
+                            Business Focused
+                        </span>
+
+                    </div>
+
+
+                    <div>
+
+                        <strong>
+                            03
+                        </strong>
+
+                        <span>
+                            Scalable Solutions
+                        </span>
+
+                    </div>
+
+
+                    <div>
+
+                        <strong>
+                            04
+                        </strong>
+
+                        <span>
+                            Long-Term Value
+                        </span>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- =====================================================
+     SOLUTIONS
+===================================================== -->
+
+<section
+    class="section light-section"
+    id="solutions">
+
+    <div class="container">
+
+
+        <div class="section-heading">
+
+            <p class="section-label">
+                OUR SOLUTIONS
+            </p>
+
+
+            <h2>
+                Technology Solutions
+                Built For Business
+            </h2>
+
+
+            <p>
+
+                Practical technology solutions designed to help
+                businesses improve performance, efficiency and growth.
+
+            </p>
+
+        </div>
+
+
+
+        <div class="solution-grid">
+
+
+            <!-- DIGITAL -->
+
+            <article class="solution-card">
+
+                <img
+                    src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1200&q=80"
+                    alt="Digital Solutions">
+
+
+                <div class="card-content">
+
+                    <span>
+                        01
+                    </span>
+
+
+                    <h3>
+                        Digital Solutions
+                    </h3>
+
+
+                    <p>
+
+                        Modern digital platforms and solutions
+                        designed around business requirements.
+
+                    </p>
+
+
+                    <a
+                        href="#"
+                        class="learn-more-btn"
+                        data-type="digital">
+
+                        Learn More →
+
+                    </a>
+
+                </div>
+
+            </article>
+
+
+
+            <!-- TECHNOLOGY -->
+
+            <article class="solution-card">
+
+                <img
+                    src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80"
+                    alt="Technology Solutions">
+
+
+                <div class="card-content">
+
+                    <span>
+                        02
+                    </span>
+
+
+                    <h3>
+                        Technology Solutions
+                    </h3>
+
+
+                    <p>
+
+                        Technology-driven solutions that support
+                        performance, automation and business growth.
+
+                    </p>
+
+
+                    <a
+                        href="#"
+                        class="learn-more-btn"
+                        data-type="technology">
+
+                        Learn More →
+
+                    </a>
+
+                </div>
+
+            </article>
+
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- =====================================================
+     SERVICES
+===================================================== -->
+
+<section
+    class="section"
+    id="services">
+
+    <div class="container">
+
+
+        <div class="section-heading">
+
+            <p class="section-label">
+                OUR SERVICES
+            </p>
+
+
+            <h2>
+                Technology Services
+            </h2>
+
+
+            <p>
+
+                End-to-end technology services helping organizations
+                innovate, secure and grow.
+
+            </p>
+
+        </div>
+
+
+
+        <div class="service-grid">
+
+
+            <!-- 01 SOFTWARE -->
+
+            <div class="service-box">
+
+                <div class="service-number">
+                    01
+                </div>
+
+                <h3>
+                    Software Development
+                </h3>
+
+                <p>
+
+                    Custom software applications built for
+                    business requirements and scalability.
+
+                </p>
+
+                <a
+                    href="#"
+                    class="service-learn-more"
+                    data-type="software">
+
+                    Learn More →
+
+                </a>
+
+            </div>
+
+
+
+            <!-- 02 WEB -->
+
+            <div class="service-box">
+
+                <div class="service-number">
+                    02
+                </div>
+
+                <h3>
+                    Web Development
+                </h3>
+
+                <p>
+
+                    Responsive websites and web applications
+                    focused on performance and user experience.
+
+                </p>
+
+                <a
+                    href="#"
+                    class="service-learn-more"
+                    data-type="web">
+
+                    Learn More →
+
+                </a>
+
+            </div>
+
+
+
+            <!-- 03 AI -->
+
+            <div class="service-box">
+
+                <div class="service-number">
+                    03
+                </div>
+
+                <h3>
+                    Artificial Intelligence
+                </h3>
+
+                <p>
+
+                    AI solutions for automation, intelligent
+                    analysis and smarter business decisions.
+
+                </p>
+
+                <a
+                    href="#"
+                    class="service-learn-more"
+                    data-type="ai">
+
+                    Learn More →
+
+                </a>
+
+            </div>
+
+
+
+            <!-- 04 IOT -->
+
+            <div class="service-box">
+
+                <div class="service-number">
+                    04
+                </div>
+
+                <h3>
+                    IoT Solutions
+                </h3>
+
+                <p>
+
+                    Connected technology for monitoring,
+                    automation and intelligent operations.
+
+                </p>
+
+                <a
+                    href="#"
+                    class="service-learn-more"
+                    data-type="iot">
+
+                    Learn More →
+
+                </a>
+
+            </div>
+
+
+
+            <!-- 05 SAP -->
+
+            <div class="service-box">
+
+                <div class="service-number">
+                    05
+                </div>
+
+                <h3>
+                    SAP Solutions
+                </h3>
+
+                <p>
+
+                    Enterprise technology solutions supporting
+                    business processes and operational efficiency.
+
+                </p>
+
+                <a
+                    href="#"
+                    class="service-learn-more"
+                    data-type="sap">
+
+                    Learn More →
+
+                </a>
+
+            </div>
+
+
+
+            <!-- 06 CYBER SECURITY -->
+
+            <div class="service-box">
+
+                <div class="service-number">
+                    06
+                </div>
+
+                <h3>
+                    Cyber Security
+                </h3>
+
+                <p>
+
+                    Security solutions designed to protect
+                    systems, networks and business information.
+
+                </p>
+
+                <a
+                    href="#"
+                    class="service-learn-more"
+                    data-type="cyber">
+
+                    Learn More →
+
+                </a>
+
+            </div>
+
+
+
+            <!-- 07 CLOUD -->
+
+            <div class="service-box">
+
+                <div class="service-number">
+                    07
+                </div>
+
+                <h3>
+                    Cloud Services
+                </h3>
+
+                <p>
+
+                    Flexible cloud infrastructure and services
+                    designed for scalability and reliability.
+
+                </p>
+
+                <a
+                    href="#"
+                    class="service-learn-more"
+                    data-type="cloud">
+
+                    Learn More →
+
+                </a>
+
+            </div>
+
+
+
+            <!-- 08 DATA -->
+
+            <div class="service-box">
+
+                <div class="service-number">
+                    08
+                </div>
+
+                <h3>
+                    Data Solutions
+                </h3>
+
+                <p>
+
+                    Data-driven solutions that transform business
+                    information into useful insights.
+
+                </p>
+
+                <a
+                    href="#"
+                    class="service-learn-more"
+                    data-type="data">
+
+                    Learn More →
+
+                </a>
+
+            </div>
+
+
+
+            <!-- 09 IT CONSULTING -->
+
+            <div class="service-box">
+
+                <div class="service-number">
+                    09
+                </div>
+
+                <h3>
+                    IT Consulting
+                </h3>
+
+                <p>
+
+                    Strategic technology consulting to help
+                    businesses plan, optimize and scale their
+                    digital environment.
+
+                </p>
+
+                <a
+                    href="#"
+                    class="service-learn-more"
+                    data-type="consulting">
+
+                    Learn More →
+
+                </a>
+
+            </div>
+
+
+
+            <!-- =================================================
+                 10 TELECOM - NEW
+            ================================================== -->
+
+            <div class="service-box">
+
+                <div class="service-number">
+                    10
+                </div>
+
+                <h3>
+                    Telecom
+                </h3>
+
+                <p>
+
+                    Telecom technology solutions for network
+                    connectivity, communication and digital
+                    infrastructure.
+
+                </p>
+
+                <a
+                    href="#"
+                    class="service-learn-more"
+                    data-type="telecom">
+
+                    Learn More →
+
+                </a>
+
+            </div>
+
+
+
+            <!-- =================================================
+                 11 GIS - NEW
+            ================================================== -->
+
+            <div class="service-box">
+
+                <div class="service-number">
+                    11
+                </div>
+
+                <h3>
+                    GIS
+                </h3>
+
+                <p>
+
+                    Geographic Information System solutions for
+                    mapping, location intelligence and spatial data.
+
+                </p>
+
+                <a
+                    href="#"
+                    class="service-learn-more"
+                    data-type="gis">
+
+                    Learn More →
+
+                </a>
+
+            </div>
+
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- =====================================================
+     FEATURE
+===================================================== -->
+
+<section class="dark-feature">
+
+    <div class="feature-grid">
+
+
+        <div class="feature-image">
+
+            <img
+                src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80"
+                alt="Technology">
+
+        </div>
+
+
+        <div class="feature-text">
+
+            <p class="section-label">
+                WHY ASV GLOBAL TECH
+            </p>
+
+
+            <h2>
+                Technology With
+                Purpose
+            </h2>
+
+
+            <p>
+
+                We focus on technology that solves real problems,
+                improves business operations and creates measurable
+                value.
+
+            </p>
+
+
+            <div class="feature-points">
+
+                <div>
+                    <b>01</b>
+                    Innovation-driven thinking
+                </div>
+
+                <div>
+                    <b>02</b>
+                    Business-focused solutions
+                </div>
+
+                <div>
+                    <b>03</b>
+                    Scalable technology
+                </div>
+
+                <div>
+                    <b>04</b>
+                    Long-term partnerships
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- =====================================================
+     INDUSTRIES
+===================================================== -->
+
+<section
+    class="section light-section"
+    id="industries">
+
+    <div class="container">
+
+
+        <div class="section-heading">
+
+            <p class="section-label">
+                INDUSTRIES
+            </p>
+
+
+            <h2>
+                Technology Across Industries
+            </h2>
+
+
+            <p>
+
+                We deliver industry-focused technology solutions
+                designed to improve operations, customer experience,
+                security and business growth.
+
+            </p>
+
+        </div>
+
+
+
+        <div class="industry-grid">
+
+
+            <!-- HEALTHCARE -->
+
+            <div
+                class="industry-card"
+                data-industry="healthcare">
+
+                <span>
+                    01
+                </span>
+
+                <h3>
+                    Healthcare
+                </h3>
+
+                <p>
+
+                    Digital technology solutions for healthcare
+                    providers, hospitals and healthcare businesses.
+
+                </p>
+
+                <button
+                    class="industry-learn"
+                    type="button">
+
+                    Explore Industry →
+
+                </button>
+
+            </div>
+
+
+
+            <!-- RETAIL -->
+
+            <div
+                class="industry-card"
+                data-industry="retail">
+
+                <span>
+                    02
+                </span>
+
+                <h3>
+                    Retail
+                </h3>
+
+                <p>
+
+                    Smart retail solutions for customer experience,
+                    inventory and business operations.
+
+                </p>
+
+                <button
+                    class="industry-learn"
+                    type="button">
+
+                    Explore Industry →
+
+                </button>
+
+            </div>
+
+
+
+            <!-- FINANCE -->
+
+            <div
+                class="industry-card"
+                data-industry="finance">
+
+                <span>
+                    03
+                </span>
+
+                <h3>
+                    Finance & Banking
+                </h3>
+
+                <p>
+
+                    Secure digital solutions for financial services,
+                    banking operations and customer platforms.
+
+                </p>
+
+                <button
+                    class="industry-learn"
+                    type="button">
+
+                    Explore Industry →
+
+                </button>
+
+            </div>
+
+
+
+            <!-- MANUFACTURING -->
+
+            <div
+                class="industry-card"
+                data-industry="manufacturing">
+
+                <span>
+                    04
+                </span>
+
+                <h3>
+                    Manufacturing
+                </h3>
+
+                <p>
+
+                    Connected technologies for smart factories,
+                    automation and operational efficiency.
+
+                </p>
+
+                <button
+                    class="industry-learn"
+                    type="button">
+
+                    Explore Industry →
+
+                </button>
+
+            </div>
+
+
+
+            <!-- EDUCATION -->
+
+            <div
+                class="industry-card"
+                data-industry="education">
+
+                <span>
+                    05
+                </span>
+
+                <h3>
+                    Education
+                </h3>
+
+                <p>
+
+                    Technology platforms supporting digital learning,
+                    administration and student experiences.
+
+                </p>
+
+                <button
+                    class="industry-learn"
+                    type="button">
+
+                    Explore Industry →
+
+                </button>
+
+            </div>
+
+
+
+            <!-- TECHNOLOGY -->
+
+            <div
+                class="industry-card"
+                data-industry="technology">
+
+                <span>
+                    06
+                </span>
+
+                <h3>
+                    Technology
+                </h3>
+
+                <p>
+
+                    Modern technology solutions for software,
+                    IT services and digital businesses.
+
+                </p>
+
+                <button
+                    class="industry-learn"
+                    type="button">
+
+                    Explore Industry →
+
+                </button>
+
+            </div>
+
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- =====================================================
+     CAREERS
+===================================================== -->
+
+<section
+    class="career"
+    id="careers">
+
+    <div class="career-overlay"></div>
+
+
+    <div class="career-content">
+
+        <p class="section-label">
+            CAREERS
+        </p>
+
+
+        <h2>
+            Build The Future
+            With Us
+        </h2>
+
+
+        <p>
+
+            Join a team focused on technology, innovation
+            and meaningful digital impact.
+
+        </p>
+
+
+        <a
+            href="#contact"
+            class="primary-button">
+
+            JOIN ASV GLOBAL TECH
+
+        </a>
+
+    </div>
+
+</section>
+
+
+
+<!-- =====================================================
+     CONTACT
+===================================================== -->
+
+<section
+    class="section"
+    id="contact">
+
+    <div class="container">
+
+
+        <div class="contact-grid">
+
+
+            <div class="contact">
+
+                <p class="section-label">
+                    CONTACT ASV GLOBAL TECH
+                </p>
+
+
+                <h2>
+                    Let's Build
+                    Something Great
+                </h2>
+
+
+                <p class="contact-description">
+
+                    Have a project, business requirement or
+                    technology idea? Talk to our team.
+
+                </p>
+
+
+                <div class="contact-details">
+
+                    <div>
+
+                        <strong>
+                            Email
+                        </strong>
+
+                        <p>
+                            info@asvglobaltech.com
+                        </p>
+
+                    </div>
+
+
+                    <div>
+
+                        <strong>
+                            Phone
+                        </strong>
+
+                        <p>
+                            +91 XXXXX XXXXX
+                        </p>
+
+                    </div>
+
+
+                    <div>
+
+                        <strong>
+                            Location
+                        </strong>
+
+                        <p>
+                            India
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+
+            <!-- CONTACT FORM -->
+
+            <div class="contact-form-wrapper">
+
+                <form
+                    id="contactForm"
+                    class="contact-form">
+
+
+                    <div class="form-group">
+
+                        <label for="name">
+                            Full Name *
+                        </label>
+
+                        <input
+                            type="text"
+                            id="name"
+                            name="name"
+                            placeholder="Enter your name"
+                            required>
+
+                    </div>
+
+
+
+                    <div class="form-group">
+
+                        <label for="email">
+                            Email *
+                        </label>
+
+                        <input
+                            type="email"
+                            id="email"
+                            name="email"
+                            placeholder="Enter your email"
+                            required>
+
+                    </div>
+
+
+
+                    <div class="form-group">
+
+                        <label for="phone">
+                            Phone
+                        </label>
+
+                        <input
+                            type="tel"
+                            id="phone"
+                            name="phone"
+                            placeholder="Enter your phone number">
+
+                    </div>
+
+
+
+                    <div class="form-group">
+
+                        <label for="service">
+                            Service
+                        </label>
+
+                        <select
+                            id="service"
+                            name="service">
+
+                            <option value="">
+                                Select a service
+                            </option>
+
+                            <option>
+                                Software Development
+                            </option>
+
+                            <option>
+                                Web Development
+                            </option>
+
+                            <option>
+                                Artificial Intelligence
+                            </option>
+
+                            <option>
+                                IoT Solutions
+                            </option>
+
+                            <option>
+                                SAP Solutions
+                            </option>
+
+                            <option>
+                                Cyber Security
+                            </option>
+
+                            <option>
+                                Cloud Services
+                            </option>
+
+                            <option>
+                                Data Solutions
+                            </option>
+
+                            <option>
+                                IT Consulting
+                            </option>
+
+                            <!-- NEW -->
+
+                            <option>
+                                Telecom
+                            </option>
+
+                            <option>
+                                GIS
+                            </option>
+
+                        </select>
+
+                    </div>
+
+
+
+                    <div class="form-group">
+
+                        <label for="message">
+                            Message *
+                        </label>
+
+                        <textarea
+                            id="message"
+                            name="message"
+                            rows="5"
+                            placeholder="Tell us about your requirement"
+                            required></textarea>
+
+                    </div>
+
+
+
+                    <button
+                        type="submit"
+                        class="primary-button form-submit">
+
+                        SEND ENQUIRY
+
+                    </button>
+
+
+                    <p
+                        id="formMessage"
+                        class="form-message"></p>
+
+
+                </form>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+</main>
+
+
+
+<!-- =====================================================
+     FOOTER
+===================================================== -->
+
+<footer class="footer">
+
+    <div class="container">
+
+
+        <div class="footer-grid">
+
+
+            <!-- BRAND -->
+
+            <div class="footer-brand">
+
+                <img
+                    src="./asv-logo-tight.png"
+                    alt="ASV Global Tech">
+
+
+                <p>
+                    Technology that creates impact.
+                </p>
+
+
+                <p class="footer-description">
+
+                    Delivering innovative digital solutions
+                    across modern business environments.
+
+                </p>
+
+            </div>
+
+
+
+            <!-- COMPANY -->
+
+            <div class="footer-column">
+
+                <h3>
+                    Company
+                </h3>
+
+
+                <a href="#about">
+                    About Us
+                </a>
+
+
+                <a href="#careers">
+                    Careers
+                </a>
+
+
+                <a href="#contact">
+                    Contact
+                </a>
+
+            </div>
+
+
+
+            <!-- SERVICES -->
+
+            <div class="footer-column">
+
+                <h3>
+                    Services
+                </h3>
+
+
+                <a href="#services">
+                    Artificial Intelligence
+                </a>
+
+
+                <a href="#services">
+                    IoT Solutions
+                </a>
+
+
+                <a href="#services">
+                    SAP Solutions
+                </a>
+
+
+                <a href="#services">
+                    Cyber Security
+                </a>
+
+
+                <a href="#services">
+                    Cloud Services
+                </a>
+
+
+                <a href="#services">
+                    Data Solutions
+                </a>
+
+
+                <a href="#services">
+                    IT Consulting
+                </a>
+
+
+                <!-- NEW -->
+
+                <a href="#services">
+                    Telecom
+                </a>
+
+
+                <a href="#services">
+                    GIS
+                </a>
+
+            </div>
+
+
+
+            <!-- INDUSTRIES -->
+
+            <div class="footer-column">
+
+                <h3>
+                    Industries
+                </h3>
+
+
+                <a href="#industries">
+                    Healthcare
+                </a>
+
+
+                <a href="#industries">
+                    Retail
+                </a>
+
+
+                <a href="#industries">
+                    Finance
+                </a>
+
+
+                <a href="#industries">
+                    Manufacturing
+                </a>
+
+
+                <a href="#industries">
+                    Education
+                </a>
+
+
+                <a href="#industries">
+                    Technology
+                </a>
+
+            </div>
+
+
+        </div>
+
+
+
+        <!-- FOOTER BOTTOM -->
+
+        <div class="footer-bottom">
+
+            <p>
+                © 2026 ASV Global Tech.
+                All Rights Reserved.
+            </p>
+
+
+            <p>
+                Designed & Developed by
+                ASV Global Tech
+            </p>
+
+        </div>
+
+
+    </div>
+
+</footer>
+
+
+
+<!-- =====================================================
+     LEARN MORE MODAL
+===================================================== -->
+
+<div
+    class="solution-modal"
+    id="solutionModal">
+
+
+    <div class="solution-modal-content">
+
+
+        <button
+            class="modal-close"
+            id="modalClose"
+            type="button">
+
+            ×
+
+        </button>
+
+
+        <p
+            class="section-label"
+            id="modalLabel">
+
+            ASV GLOBAL TECH
+
+        </p>
+
+
+        <h2 id="modalTitle">
+            Service
+        </h2>
+
+
+        <p id="modalDescription">
+            Service description
+        </p>
+
+
+        <div
+            class="modal-details"
+            id="modalDetails">
+        </div>
+
+
+        <a
+            href="#contact"
+            class="primary-button modal-contact-btn"
+            id="modalContact">
+
+            DISCUSS YOUR REQUIREMENT
+
+        </a>
+
+
+    </div>
+
+</div>
+
+
+
+<!-- =====================================================
+     JAVASCRIPT
+===================================================== -->
+
+<script src="./script.js"></script>
+
+
+</body>
+
+</html>
